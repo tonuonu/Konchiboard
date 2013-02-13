@@ -19,5 +19,7 @@ $ sudo dfu-programmer atmega32u4 start
 $ 
 
 To compile sources you may want to use Arduino Leonardo board but make sure to set 8Mhz instead of 16Mhz. This is chip limitation while using 3,3V.
+I did this by modifying arduino-1.0.3/hardware/arduino/boards.txt but maybe there is a more clever way.
+
 
 
