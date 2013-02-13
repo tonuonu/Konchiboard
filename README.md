@@ -1,7 +1,7 @@
 Konchiboard
 ===========
 
-Demo software for Konchiboard
+Demo software for Konchiboard ( http://kb.qumula.com/ )
 
 1. Blinks all 6 LEDs
 2. Becomeas available as serial port (For windows use Arduino Leonardo drivers) at 115200bps 8N1, no flow control
